@@ -22,7 +22,8 @@
 ---
 
 ## Challenge Overview
-You’re the DevOps team of **CoderCo**.  
+You’re the DevOps team of **CoderCo**.
+
 Your task is to:
 
 * 🔧 Spin up AWS infrastructure with **Terraform** (VPC, EKS 1.29 or above). Please use your own modules for resources. 
