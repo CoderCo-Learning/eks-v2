@@ -49,8 +49,8 @@ Focus on production fundamentals—security, observability, automation and repro
 | Category | Pts | Evidence We’ll Inspect |
 |----------|----:|------------------------|
 | **Project Management / Board** | **6** | Epics → tickets, status swim-lanes, PR links. |
-| **Terraform AWS Infra** | **18** | Reusable modules (vpc, eks, sg, iam); remote S3+Dynamo state; spot nodes & autoscaler. |
-| **Networking & Ingress** | **8** | ALB/NGINX IC, internal vs public ingress, Calico network-policies. |
+| **Terraform AWS Infra** | **18** | Reusable modules (vpc, eks, sg, iam, r53 etc); remote state; spot nodes & autoscaler. |
+| **Networking & Ingress** | **8** | Ingress controller of your choice, internal vs public ingress, Calico network-policies or AWS VPC CNI, Route 53 records. |
 | **CI Pipeline (IaC)** | **8** | plan/apply gates, tfsec/Checkov, SOPS-encrypted secrets or external secrets, failure alerts. |
 | **Container Build & Registry** | **8** | Multi-stage Docker, Trivy SBOM, push to ECR with immutable digests. |
 | **CD Pipeline (App)** | **12** | Helm rollout dev → prod, digest pinning, auto-rollback on readiness fail. |
@@ -83,9 +83,9 @@ Focus on production fundamentals—security, observability, automation and repro
 2. **README.md** (this file) updated with:  
    * One-command bootstrap (`make deploy` or similar).  
    * Point-and-click architecture diagram (`architecture.drawio` / `.png`).  
-   * Links to dashboards & project board.  
-3. **Screenshot bundle** – Grafana, Trivy, Checkov, OPA outputs.  
-4. **Two short demo videos** (≤ 2 min each):  
+   * Links to dashboards & project board (optional).  
+3. **Screenshot bundle** – Grafana, Trivy, Checkov, OPA outputs.
+4. **OPTIONAL - Two short demo videos** (≤ 2 min each):  
    1. Terraform pipeline run.  
    2. App pipeline → rollout + rollback.  
 
