@@ -1,11 +1,11 @@
-# CoderCo – DevOps Capstone Challenge
+# CoderCo – K8s Project
 
 > **Goal:** Build a production-ready AWS platform on K8s, ship **any** containerised micro-service through policy-guarded pipelines and prove it all works.
 
 ---
 
 ## 📋 Table of Contents
-- [CoderCo – DevOps Capstone Challenge](#coderco--devops-capstone-challenge)
+- [CoderCo – K8s Project](#coderco--k8s-project)
   - [📋 Table of Contents](#-table-of-contents)
   - [Challenge Overview](#challenge-overview)
   - [Core Requirements](#core-requirements)
