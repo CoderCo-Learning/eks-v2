@@ -10,7 +10,7 @@
   - [Challenge Overview](#challenge-overview)
   - [Core Requirements](#core-requirements)
   - [Marking Rubric](#marking-rubric)
-  - [Bonus Opportunities](#bonus-opportunities)
+  - [Bonus Points](#bonus-points)
   - [Deliverables \& Submission ](#deliverables--submission-)
   - [Recommended Repo Layout ](#recommended-repo-layout-)
   - [Grading Bands ](#grading-bands-)
@@ -62,7 +62,8 @@ Focus on production fundamentals—security, observability, automation and repro
 
 ---
 
-## Bonus Opportunities  
+## Bonus Points
+  
 *(+20 pts max – shoot your shot)* <a name="bonus-opportunities"></a>
 
 | Bonus Item | Pts | Full-Credit Expectations |
