@@ -1,6 +1,6 @@
 # CoderCo – DevOps Capstone Challenge
 
-> **Mission:** Build a production-ready AWS platform, ship **any** containerised micro-service through policy-guarded pipelines and prove it all works.
+> **Goal:** Build a production-ready AWS platform on K8s, ship **any** containerised micro-service through policy-guarded pipelines and prove it all works.
 
 ---
 
