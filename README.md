@@ -57,7 +57,7 @@ Focus on production fundamentals—security, observability, automation and repro
 | **Security & Compliance** | **12** | OPA baseline+restricted, IRSA, secret-less images. |
 | **Observability** | **12** | Prom scrape configs, Grafana dashboards as JSON, Loki logs, actionable alerts. |
 | **Resilience & Scalability** | **8** | HPA, PDBs, disruption budgets, at least one chaos test. |
-| **Documentation & Architecture** | **8** | README, diagram, on-call runbook. |
+| **Documentation & Architecture** | **8** | README, diagrams and any useful runbooks. |
 | **TOTAL CORE** | **100** |  |
 
 ---
