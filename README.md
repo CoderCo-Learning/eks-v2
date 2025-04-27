@@ -9,6 +9,7 @@
 ---
 
 ## 📋 Table of Contents
+
 - [CoderCo – K8s Assignment](#coderco--k8s-assignment)
   - [📋 Table of Contents](#-table-of-contents)
   - [Challenge Overview](#challenge-overview)
@@ -22,6 +23,7 @@
 ---
 
 ## Challenge Overview
+
 You’re the DevOps team of **CoderCo**.
 
 Your task is to:
@@ -36,6 +38,7 @@ Focus on production fundamentals—security, observability, automation and repro
 ---
 
 ## Core Requirements
+
 | # | Area | Must-haves |
 |---|------|------------|
 | 1 | **AWS Foundation** | VPC (public + private), EKS 1.29 or above, cluster-autoscaler, spot & on-demand node groups (or Fargate if you prefer but please explain your choice). |
@@ -49,6 +52,7 @@ Focus on production fundamentals—security, observability, automation and repro
 ---
 
 ## Marking Rubric  
+
 *(Core = 100 pts)* <a name="marking-rubric"></a>
 
 | Category | Pts | Evidence We’ll Inspect |
