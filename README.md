@@ -1,11 +1,15 @@
-# CoderCo – K8s Project
+<div align="center">
+    <img src="./images/coderco.jpg" alt="CoderCo" width="300"/>
+</div>
+
+# CoderCo – K8s Assignment
 
 > **Goal:** Build a production-ready AWS platform on K8s, ship **any** containerised micro-service through policy-guarded pipelines and prove it all works.
 
 ---
 
 ## 📋 Table of Contents
-- [CoderCo – K8s Project](#coderco--k8s-project)
+- [CoderCo – K8s Assignment](#coderco--k8s-assignment)
   - [📋 Table of Contents](#-table-of-contents)
   - [Challenge Overview](#challenge-overview)
   - [Core Requirements](#core-requirements)
@@ -63,7 +67,7 @@ Focus on production fundamentals—security, observability, automation and repro
 ---
 
 ## Bonus Points
-  
+
 *(+20 pts max – shoot your shot)* <a name="bonus-opportunities"></a>
 
 | Bonus Item | Pts | Full-Credit Expectations |
